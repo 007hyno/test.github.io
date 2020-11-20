@@ -1,0 +1,18 @@
+.img_hai_main{
+    width: 90%;
+}
+
+.img_hai{
+    width: 25px;
+    padding-right: 4px;
+}
+@media only screen and (min-width: 900px) {
+    .img_hai_main{
+        width: 80%;
+    }
+  }
+@media only screen and (min-width: 650px) {
+    .img_hai_main{
+        width: 70%;
+    }
+  }
